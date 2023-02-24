@@ -11,4 +11,9 @@ class ProjetTest {
 		fail("Not yet implemented");
 	}
 
+	@Test
+	void tester(){
+		System.out.println("Salut");
+	}
+
 }
